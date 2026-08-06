@@ -74,7 +74,6 @@ Status	Goal
 🔄	Build my first AI agent from scratch
 ⏳	Contribute to open-source
 ⏳	Land my first AI internship
-⏳	Build a portfolio of 6+ shipped projects
 "Trophies are just pixels. Shipping projects is the real flex."
 ```
 🎮 Offline Mode
