@@ -4,7 +4,7 @@
   ║  BSc AI @ UET Lahore | Builder with AI | Automation & Agents ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
-![](https://komarev.com/ghpvc/?username=Abiha-AI&color=blueviolet)
+
 <!-- Animated Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Abiha+%F0%9F%91%8B;BSc+AI+Student+%40+UET+Lahore+%F0%9F%8E%93;From+AI+User+%E2%86%92+AI+Builder+%F0%9F%9A%80;Automation+%7C+Agents+%7C+Python+%F0%9F%A4%96" alt="Typing SVG" />
@@ -17,6 +17,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abiha-AI&color=blueviolet" />
+</p>
 
 ## 🧠 Who Am I?
 
