@@ -63,13 +63,17 @@ print(f"{me.name} is currently: {me.current_mode()}")
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-```📚 Currently Grinding
-Table
-🔥 What	🎯 Why
-Data Structures & Algorithms	Building the foundation to write efficient agent logic
-AI Agent Design	Moving from prompting → architecting autonomous systems
-No-Code Automation	n8n workflows that actually ship
-```
+## 🚀 Featured Projects
+
+| Project | What It Does | Tech Stack |
+|---------|-------------|------------|
+| [RAG Resume QA](https://github.com/Abiha-AI/Rag-Resume-Qa) | Chat with PDF resumes using Retrieval-Augmented Generation | Python, LangChain, ChromaDB, OpenAI |
+| [NeuroFive Chatbot](https://github.com/Abiha-AI/NeuroFive-Support-Chatbot) | AI customer support agent with conversation memory | Python, Flask, OpenAI API |
+| [Groq Structured Outputs](https://github.com/Abiha-AI/Groq-Structured-Outputs) | Force LLMs to return valid JSON using Pydantic schemas | Python, Groq, Pydantic |
+| [CoT Prompting Guide](https://github.com/Abiha-AI/CoT-Prompting-Guide) | Practical chain-of-thought examples for better LLM reasoning | Markdown, Examples |
+| [Student Grade System](https://github.com/Abiha-AI/Student-Grade-Management-System) | C++ console app for managing student records with file I/O | C++ |
+| [Grocery Billing System](https://github.com/Abiha-AI/Grocery-Shop-Billing-System) | C++ billing system with inventory and receipt generation | C++ |
+
 ```🎯 Goals & Roadmap
 Table
 Status	Goal
@@ -101,7 +105,7 @@ Status	Goal
   <em>📍 Lahore, Pakistan 🇵🇰</em>
 </p>
 <div align="center">
-⭐ Building one repo at a time — check my pinned repos below.
+⭐ Check out my pinned projects — I build AI agents, RAG systems, and automation tools.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d&height=100&section=footer" />
 </div>
 <picture>
