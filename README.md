@@ -83,10 +83,14 @@ Status	Goal
 ⏳	Land my first AI internship
 "Trophies are just pixels. Shipping projects is the real flex."
 ```
+## 🧰 Side Projects
+- [Turtle Heart Birthday](https://github.com/Abiha-AI/turtle-heart-birthday) — Creative coding with Python Turtle
+- [Car Record Manager](https://github.com/Abiha-AI/Car-Record-Manager-CPP) — C++ vehicle management system
+- [Calendar App](https://github.com/Abiha-AI/Calender) — Date utility in C++
+
 🎮 Offline Mode
 <p align="center">
   <img src="https://img.shields.io/badge/Free_Fire-FF0000?style=for-the-badge&logo=garena&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile_Legends-000000?style=for-the-badge&logo=mobile-legends&logoColor=white" />
   <img src="https://img.shields.io/badge/Where_Winds_Meet-4A90E2?style=for-the-badge&logo=gamepad&logoColor=white" />
 </p>
 "Ranked matches hit different after a debug session."
