@@ -30,7 +30,7 @@ class Abiha:
         return "Turning coursework into real, working projects"
     
     def offline(self):
-        return "Gaming — Free Fire, Mobile Legends, Where Winds Meet 🎮"
+        return "Gaming Free Fire, Mobile Legends, Where Winds Meet 🎮"
 
 me = Abiha()
 print(f"{me.name} is currently: {me.current_mode()}")
