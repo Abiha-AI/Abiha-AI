@@ -102,7 +102,7 @@ Status	Goal
   <em>📍 Lahore, Pakistan 🇵🇰</em>
 </p>
 <div align="center">
-⭐ Check out my pinned projects — I build AI agents, RAG systems, and automation tools.
+⭐ Check out my pinned projects I build AI agents, RAG systems, and automation tools.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d&height=100&section=footer" />
 </div>
 <picture>
