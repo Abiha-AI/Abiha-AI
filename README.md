@@ -91,7 +91,7 @@ Status	Goal
 
 📫 Let's Connect
 <p align="center">
-  <a href="www.linkedin.com/in/abiha-j-22861537a">
+  <a href="[https://www.linkedin.com/in/abiha-jaffery/]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="abihajaffey18@gmail.com">
